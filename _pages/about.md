@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+저는 1팀의 장민준입니다. 
 
+잘부탁드립니다!
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[^1]: 프로그래밍에는 어느정도 관심을 가져본 적은 있으나, 제대로 뭔가를 만들어본적이 없습니다.
